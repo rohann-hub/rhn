@@ -1,3 +1,39 @@
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=F5F5F5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast"
+    alt="Typing SVG"
+  />
+</h1>
+
+<h1 align="center">Hi 👋, I'm Rohan</h1>
+
+<h3 align="center">
+Computer Science Student | Specialized in AI, Data Science & Full-Stack Development
+</h3>
+
+<p align="center">
+
+
+</p>
+
+<img align="right" alt="coding" width="400"
+src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohann-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="rohann-hub" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
