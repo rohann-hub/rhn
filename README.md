@@ -1,3 +1,47 @@
+<h3 align="left">🌐 Connect with me:</h3>
+
+<p align="left">
+
+  <a href="https://instagram.com/rhx7n" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rupjitshil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+  <a href="https://github.com/rohann-hub" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+
+  <a href="https://leetcode.com/rohan_hub/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+  </a>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">⚡ Languages and Tools:</h3>
 
 <p align="left">
