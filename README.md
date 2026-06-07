@@ -180,3 +180,47 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 
 </p>
+
+
+
+
+<h1 align="center">👨‍💻 Rohan</h1>
+
+<p align="center">
+AI Developer • Full Stack Developer • Open Source Enthusiast
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
+<hr>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohann-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohann-hub&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohann-hub&theme=tokyo-night&hide_border=true"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
